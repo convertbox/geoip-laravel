@@ -1,5 +1,5 @@
 {
-  "name": "torann/geoip",
+  "name": "convertbox/geoip-laravel",
   "description": "Support for multiple GeoIP services.",
   "keywords": [
     "laravel",
